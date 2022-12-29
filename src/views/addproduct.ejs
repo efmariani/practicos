@@ -1,0 +1,34 @@
+<%- include('partials/head') %>
+<link rel="stylesheet" href="addproduct.css" type="text/css">
+<body>
+    <%- include('partials/header') %>
+    <h1>Agrega tu producto</h1>
+    <div class="formDiv">
+        <form action="" method="post">
+            <label for="postTitulo">Titulo</label>
+            <input id="postTitulo" type="text" name="title">
+    
+            <label for="POST-SKU">SKU (Opcional)</label>
+            <input id="POST-SKU" type="text" name="SKU">
+    
+            <label for="POST-description">Descripción</label>
+            <input id="POST-description" type="textbox" name="description">
+
+            <label for="POST-price">Precio A$R </label>
+            <input id="POST-price" type="text" name="price">
+    
+            <label for="POST-brand">Marca</label>
+            <input id="POST-brand" type="text" name="brand">
+    
+            <label for="POST-stock">Stock</label>
+            <input id="POST-stock" type="number" name="stock">
+    
+            <input type="checkbox" id="availability" name="availability" checked>
+            <label for="availability">Habilitado</label>
+    
+            <input type="submit" value="Save">
+        </form>
+    </div>
+    <%- include('partials/footer') %>
+</body>
+</html> 

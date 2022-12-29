@@ -1,0 +1,22 @@
+[
+    {
+        "user":"admin@admin.com",
+        "password":"$2b$10$K.H1F9VN.Ps5lDUXHMbtv.Ihy6pLKiZ3mqUz6sOCgkCbKcO07Lfh."
+    },
+    {
+        "user":"admin1@admin.com",
+        "password":"$2b$10$K.H1F9VN.Ps5lDUXHMbtv.Ihy6pLKiZ3mqUz6sOCgkCbKcO07Lfh."
+    },
+    {
+        "user":"admin2@admin.com",
+        "password":"$2b$10$K.H1F9VN.Ps5lDUXHMbtv.Ihy6pLKiZ3mqUz6sOCgkCbKcO07Lfh."
+    },
+    {
+        "user":"admin3@admin.com",
+        "password":"123456"
+    }
+]
+
+
+
+

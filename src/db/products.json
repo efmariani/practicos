@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "product":"Pantalon",
+        "description":"bla bla bla",
+        "price":99999.99
+    },
+    {
+        "id":2,
+        "product":"Remera",
+        "description":"bla bla bla",
+        "price":99999.99
+    },
+    {
+        "id":3,
+        "product":"Campera",
+        "description":"bla bla bla",
+        "price":99999.99
+    },
+    {
+        "id":4,
+        "product":"Buxo",
+        "description":"bla bla bla",
+        "price":99999.99
+    }
+]
